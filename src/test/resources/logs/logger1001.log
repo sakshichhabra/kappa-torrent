@@ -1,0 +1,1367 @@
+23:42:22.786761957 : uf.Peer 1001 is connected from uf.Peer 1002.
+23:42:22.787109166 : uf.Peer 1001 is connected from uf.Peer 1006.
+23:42:22.787440958 : uf.Peer 1001 is connected from uf.Peer 1003.
+23:42:22.787779206 : uf.Peer 1001 is connected from uf.Peer 1005.
+23:42:22.788092038 : uf.Peer 1001 is connected from uf.Peer 1004.
+23:42:22.788369135 : uf.Peer 1001 is connected from uf.Peer 1007.
+23:42:22.788682537 : uf.Peer 1001 is connected from uf.Peer 1008.
+23:42:22.789069695 : uf.Peer 1001 is connected from uf.Peer 1009.
+23:42:22.794794153 : sent a bitfield to 1008 with file FULL 
+23:42:22.795092537 : sent a bitfield to 1009 with file FULL 
+23:42:22.795377186 : sent a bitfield to 1002 with file FULL 
+23:42:22.795686857 : sent a bitfield to 1003 with file FULL 
+23:42:22.796012450 : sent a bitfield to 1004 with file FULL 
+23:42:22.796380079 : sent a bitfield to 1005 with file FULL 
+23:42:22.796725857 : sent a bitfield to 1006 with file FULL 
+23:42:22.797036457 : sent a bitfield to 1007 with file FULL 
+23:42:22.980068763 : uf.Peer 1001 sent choke to 1002.
+23:42:23.026118030 : uf.Peer 1001 sent choke to 1003.
+23:42:23.026242063 : uf.Peer 1001 sent choke to 1004.
+23:42:23.026365465 : uf.Peer 1001 sent choke to 1005.
+23:42:23.026488800 : uf.Peer 1001 sent choke to 1006.
+23:42:23.027045254 : uf.Peer 1001 sent choke to 1007.
+23:42:23.045935754 : uf.Peer 1001 sent choke to 1008.
+23:42:23.046235626 : uf.Peer 1001 sent choke to 1009.
+23:42:23.048829342 : received a bitfield from 1009 with file EMPTY 
+23:42:23.057833231 : received a bitfield from 1008 with file EMPTY 
+23:42:23.057930029 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:23.058085884 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:23.103333140 : received a bitfield from 1002 with file EMPTY 
+23:42:23.108174753 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:23.129046257 : received a bitfield from 1003 with file EMPTY 
+23:42:23.129143226 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:23.129438654 : uf.Peer 1001 is choked by 1003.
+23:42:23.129561199 : uf.Peer 1001 received the ‘interested’ message from 1003.
+23:42:23.129998901 : uf.Peer 1001 is choked by 1008.
+23:42:23.130106937 : uf.Peer 1001 is choked by 1009.
+23:42:23.130208458 : uf.Peer 1001 received the ‘interested’ message from 1008.
+23:42:23.130730200 : uf.Peer 1001 is choked by 1002.
+23:42:23.130874377 : uf.Peer 1001 received the ‘interested’ message from 1002.
+23:42:23.131310159 : received a bitfield from 1005 with file EMPTY 
+23:42:23.142487532 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:23.142608155 : received a bitfield from 1004 with file EMPTY 
+23:42:23.142725766 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:23.142843564 : received a bitfield from 1007 with file EMPTY 
+23:42:23.142933972 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:23.143038023 : uf.Peer 1001 is choked by 1004.
+23:42:23.143201112 : uf.Peer 1001 received the ‘interested’ message from 1004.
+23:42:23.143311249 : received a bitfield from 1006 with file FULL 
+23:42:23.143436069 : uf.Peer 1001 received the ‘interested’ message from 1009.
+23:42:23.143552502 : uf.Peer 1001 is choked by 1005.
+23:42:23.144228314 : uf.Peer 1001 send ‘interested’ message to 1006.
+23:42:23.144317494 : uf.Peer 1001 received the ‘interested’ message from 1005.
+23:42:23.144440169 : uf.Peer 1001 is choked by 1007.
+23:42:23.144599742 : uf.Peer 1001 received the ‘interested’ message from 1007.
+23:42:23.146676429 : uf.Peer 1001 is choked by 1006.
+23:42:23.147296548 : uf.Peer 1001 received the ‘interested’ message from 1006.
+23:42:27.821055590 : uf.Peer 1001 is choked by 1005.
+23:42:27.821753696 : uf.Peer 1001 is choked by 1002.
+23:42:27.850090613 : uf.Peer 1001 is choked by 1008.
+23:42:27.872432285 : uf.Peer 1001 is choked by 1009.
+23:42:27.872725727 : uf.Peer 1001 is choked by 1007.
+23:42:27.872903673 : uf.Peer 1001 is unchoked by 1006.
+23:42:27.876691244 : uf.Peer 1001 is choked by 1004.
+23:42:27.879207382 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 13.
+23:42:27.879338281 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 13.
+23:42:27.879530727 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.879671133 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.880691537 : uf.Peer 1001 is choked by 1003.
+23:42:27.882475969 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 22.
+23:42:27.882526218 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.883517264 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 6.
+23:42:27.884080247 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.885000948 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 6.
+23:42:27.885065603 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:27.885259810 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 13.
+23:42:27.885401757 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:27.887464840 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 65.
+23:42:27.887772111 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.888643148 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 13.
+23:42:27.888738158 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:27.889115300 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 6.
+23:42:27.889410718 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:27.890833650 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 49.
+23:42:27.891098453 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.892697174 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 48.
+23:42:27.892883641 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.894156176 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 55.
+23:42:27.894205974 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.895633831 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 6.
+23:42:27.895718098 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.896846649 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 5.
+23:42:27.896918317 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.897922853 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 64.
+23:42:27.897966156 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.899337602 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 24.
+23:42:27.899388428 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.900856362 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 9.
+23:42:27.900914700 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.902110438 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 43.
+23:42:27.902168605 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.903291317 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 57.
+23:42:27.903370893 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.904536550 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 45.
+23:42:27.904597907 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.904760162 : uf.Peer 1001 sent unchoke to 1002.
+23:42:27.904851740 : uf.Peer 1001 sent unchoke to 1003.
+23:42:27.904906848 : uf.Peer 1001 sent unchoke to 1004.
+23:42:27.904954457 : uf.Peer 1001 sent choke to 1005.
+23:42:27.904984900 : uf.Peer 1001 sent choke to 1006.
+23:42:27.905019640 : uf.Peer 1002 requested 32.
+23:42:27.905035694 : uf.Peer 1001 sent choke to 1007.
+23:42:27.905051153 : uf.Peer 1004 requested 6.
+23:42:27.905083829 : uf.Peer 1001 sent choke to 1008.
+23:42:27.905113965 : uf.Peer 1001 sent choke to 1009.
+23:42:27.905187326 : sent piece 32 to 1002 
+23:42:27.905228089 : uf.Peer 1003 requested 56.
+23:42:27.905243632 : sent piece 6 to 1004 
+23:42:27.905380540 : sent piece 56 to 1003 
+23:42:27.905460287 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 32.
+23:42:27.905487162 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.905728510 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 56.
+23:42:27.905765593 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.905788285 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 6.
+23:42:27.905825342 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.905976845 : uf.Peer 1003 requested 4.
+23:42:27.906126680 : sent piece 4 to 1003 
+23:42:27.906423116 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 26.
+23:42:27.906457621 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.906541317 : uf.Peer 1004 requested 7.
+23:42:27.906690726 : sent piece 7 to 1004 
+23:42:27.906812973 : uf.Peer 1002 requested 58.
+23:42:27.906902160 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 4.
+23:42:27.906933089 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.906952882 : sent piece 58 to 1002 
+23:42:27.907014766 : uf.Peer 1003 requested 22.
+23:42:27.907129402 : sent piece 22 to 1003 
+23:42:27.907176522 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 7.
+23:42:27.907201223 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.907723289 : uf.Peer 1004 requested 42.
+23:42:27.907882623 : sent piece 42 to 1004 
+23:42:27.907945737 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 58.
+23:42:27.907970791 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.908046668 : uf.Peer 1002 requested 12.
+23:42:27.908165335 : sent piece 12 to 1002 
+23:42:27.908451051 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 22.
+23:42:27.908483277 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.908771169 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 42.
+23:42:27.908812580 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.908882360 : uf.Peer 1004 requested 26.
+23:42:27.908997819 : sent piece 26 to 1004 
+23:42:27.909101035 : uf.Peer 1003 requested 49.
+23:42:27.909184350 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 12.
+23:42:27.909215940 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.909237247 : sent piece 49 to 1003 
+23:42:27.909354236 : uf.Peer 1002 requested 34.
+23:42:27.909474318 : sent piece 34 to 1002 
+23:42:27.909985762 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 34.
+23:42:27.910004472 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.910022587 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 49.
+23:42:27.910052552 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.910139767 : uf.Peer 1003 requested 5.
+23:42:27.910163585 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 26.
+23:42:27.910186659 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.910259319 : sent piece 5 to 1003 
+23:42:27.910276101 : uf.Peer 1004 requested 50.
+23:42:27.910400782 : sent piece 50 to 1004 
+23:42:27.910446256 : uf.Peer 1002 requested 30.
+23:42:27.910563728 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 5.
+23:42:27.910590385 : sent piece 30 to 1002 
+23:42:27.910615261 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.910822486 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 50.
+23:42:27.910858097 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.910874338 : uf.Peer 1003 requested 65.
+23:42:27.910996821 : sent piece 65 to 1003 
+23:42:27.911460538 : uf.Peer 1004 requested 54.
+23:42:27.911578044 : sent piece 54 to 1004 
+23:42:27.911612778 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 30.
+23:42:27.911638282 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.911731580 : uf.Peer 1002 requested 10.
+23:42:27.911859754 : sent piece 10 to 1002 
+23:42:27.911884803 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 65.
+23:42:27.911939599 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.912008106 : uf.Peer 1003 requested 14.
+23:42:27.912081695 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 54.
+23:42:27.912114548 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.912130301 : sent piece 14 to 1003 
+23:42:27.912148839 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 10.
+23:42:27.912203587 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.912779434 : uf.Peer 1004 requested 24.
+23:42:27.912894540 : sent piece 24 to 1004 
+23:42:27.912950597 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 14.
+23:42:27.912979614 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.913053701 : uf.Peer 1003 requested 7.
+23:42:27.913169148 : sent piece 7 to 1003 
+23:42:27.913802740 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 7.
+23:42:27.913824822 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 24.
+23:42:27.913845107 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.913860996 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.914052976 : uf.Peer 1003 requested 35.
+23:42:27.914180901 : uf.Peer 1002 requested 23.
+23:42:27.914200984 : sent piece 35 to 1003 
+23:42:27.914249474 : uf.Peer 1004 requested 43.
+23:42:27.914311789 : sent piece 23 to 1002 
+23:42:27.914376223 : sent piece 43 to 1004 
+23:42:27.914597032 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 35.
+23:42:27.914627845 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.915274336 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 43.
+23:42:27.915295015 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.915374252 : uf.Peer 1004 requested 25.
+23:42:27.915502631 : sent piece 25 to 1004 
+23:42:27.915612082 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 23.
+23:42:27.915643600 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.915891086 : uf.Peer 1003 requested 29.
+23:42:27.915996695 : sent piece 29 to 1003 
+23:42:27.916347496 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 29.
+23:42:27.916372429 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.916714438 : uf.Peer 1002 requested 33.
+23:42:27.916845268 : sent piece 33 to 1002 
+23:42:27.917066939 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 27.
+23:42:27.917100440 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.917195185 : uf.Peer 1003 requested 0.
+23:42:27.917309086 : sent piece 0 to 1003 
+23:42:27.917828403 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 25.
+23:42:27.917859931 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.917873392 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 0.
+23:42:27.917895037 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.918497015 : uf.Peer 1003 requested 33.
+23:42:27.918617575 : sent piece 33 to 1003 
+23:42:27.918981705 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 33.
+23:42:27.919001817 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.919173068 : uf.Peer 1004 requested 45.
+23:42:27.919204057 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 33.
+23:42:27.919229748 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.919296246 : sent piece 45 to 1004 
+23:42:27.920090973 : uf.Peer 1002 requested 54.
+23:42:27.920131277 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 45.
+23:42:27.920153995 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.920212925 : sent piece 54 to 1002 
+23:42:27.920229965 : uf.Peer 1003 requested 48.
+23:42:27.920372624 : sent piece 48 to 1003 
+23:42:27.920494197 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 46.
+23:42:27.920519908 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.920603867 : uf.Peer 1004 requested 0.
+23:42:27.920717701 : sent piece 0 to 1004 
+23:42:27.920933334 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 48.
+23:42:27.920965737 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.921495593 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 0.
+23:42:27.921517684 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.921628640 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 54.
+23:42:27.921658299 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.921784227 : uf.Peer 1003 requested 38.
+23:42:27.921906145 : sent piece 38 to 1003 
+23:42:27.922187090 : uf.Peer 1004 requested 20.
+23:42:27.922332218 : sent piece 20 to 1004 
+23:42:27.922484566 : uf.Peer 1002 requested 25.
+23:42:27.922584707 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 38.
+23:42:27.922614141 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.922630391 : sent piece 25 to 1002 
+23:42:27.922836381 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 20.
+23:42:27.922859361 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.923393060 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 25.
+23:42:27.923420612 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.923445044 : uf.Peer 1004 requested 10.
+23:42:27.923559180 : sent piece 10 to 1004 
+23:42:27.923590553 : uf.Peer 1003 requested 55.
+23:42:27.923774674 : sent piece 55 to 1003 
+23:42:27.924223054 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 55.
+23:42:27.924243746 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.924317314 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 10.
+23:42:27.924333851 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.924794844 : uf.Peer 1002 requested 51.
+23:42:27.924914794 : sent piece 51 to 1002 
+23:42:27.924938452 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 12.
+23:42:27.924983653 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.925663065 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 16.
+23:42:27.925717080 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.926120148 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 51.
+23:42:27.926155612 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.926357807 : uf.Peer 1004 requested 5.
+23:42:27.926462916 : sent piece 5 to 1004 
+23:42:27.926617648 : uf.Peer 1002 requested 28.
+23:42:27.926748726 : sent piece 28 to 1002 
+23:42:27.927230972 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 28.
+23:42:27.927252257 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.927489287 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 5.
+23:42:27.927506756 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.927526472 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 11.
+23:42:27.927546353 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.927916127 : uf.Peer 1002 requested 61.
+23:42:27.928042734 : sent piece 61 to 1002 
+23:42:27.928432324 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 17.
+23:42:27.928449752 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.928873744 : uf.Peer 1004 requested 16.
+23:42:27.928972754 : sent piece 16 to 1004 
+23:42:27.929448086 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 38.
+23:42:27.929475688 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.929858730 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 61.
+23:42:27.929879865 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.930328844 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 16.
+23:42:27.930349573 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.930436041 : uf.Peer 1003 requested 41.
+23:42:27.930563885 : sent piece 41 to 1003 
+23:42:27.931217618 : uf.Peer 1002 requested 36.
+23:42:27.931309067 : uf.Peer 1004 requested 8.
+23:42:27.931342768 : sent piece 36 to 1002 
+23:42:27.931429576 : sent piece 8 to 1004 
+23:42:27.931542522 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 15.
+23:42:27.931565987 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.931940033 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 8.
+23:42:27.931966554 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.932335011 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 41.
+23:42:27.932360465 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.934091162 : uf.Peer 1003 requested 16.
+23:42:27.934224208 : sent piece 16 to 1003 
+23:42:27.934870366 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 37.
+23:42:27.934890805 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.935148108 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 36.
+23:42:27.935167336 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.935348555 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 39.
+23:42:27.935372982 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.935943733 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 16.
+23:42:27.935966347 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.936533123 : uf.Peer 1002 requested 8.
+23:42:27.936704977 : sent piece 8 to 1002 
+23:42:27.937688462 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 8.
+23:42:27.937708062 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.937775514 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 19.
+23:42:27.937796432 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.938292869 : uf.Peer 1002 requested 18.
+23:42:27.938307446 : uf.Peer 1003 requested 44.
+23:42:27.938417419 : sent piece 18 to 1002 
+23:42:27.938451905 : sent piece 44 to 1003 
+23:42:27.938729917 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 44.
+23:42:27.938763049 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.939156112 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 18.
+23:42:27.939191343 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.939821091 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 44.
+23:42:27.939847107 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.940054337 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 14.
+23:42:27.940083413 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.940471129 : uf.Peer 1002 requested 39.
+23:42:27.940629956 : sent piece 39 to 1002 
+23:42:27.941601374 : uf.Peer 1003 requested 23.
+23:42:27.941732600 : sent piece 23 to 1003 
+23:42:27.941821248 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 46.
+23:42:27.941846752 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.941961341 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 39.
+23:42:27.941986275 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.942079148 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 60.
+23:42:27.942102456 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.943218373 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 23.
+23:42:27.943238484 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.943765736 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 63.
+23:42:27.943784785 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.943921399 : uf.Peer 1003 requested 25.
+23:42:27.944042262 : sent piece 25 to 1003 
+23:42:27.944354956 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 45.
+23:42:27.944377651 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.945454066 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 25.
+23:42:27.945482776 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.946047279 : uf.Peer 1003 requested 43.
+23:42:27.946166734 : sent piece 43 to 1003 
+23:42:27.946339028 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 36.
+23:42:27.946365952 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.946589891 : uf.Peer 1002 requested 15.
+23:42:27.946730625 : sent piece 15 to 1002 
+23:42:27.947056767 : uf.Peer 1004 requested 2.
+23:42:27.947124155 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 43.
+23:42:27.947147339 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.947173335 : sent piece 2 to 1004 
+23:42:27.947883541 : uf.Peer 1003 requested 10.
+23:42:27.948007020 : sent piece 10 to 1003 
+23:42:27.948474881 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 2.
+23:42:27.948502773 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.949146893 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 37.
+23:42:27.949169597 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.949368908 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 29.
+23:42:27.949390493 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.949643069 : uf.Peer 1004 requested 39.
+23:42:27.949783111 : sent piece 39 to 1004 
+23:42:27.949803289 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 15.
+23:42:27.950423543 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.950514380 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 10.
+23:42:27.950546739 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 39.
+23:42:27.950569795 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.950587640 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.951046234 : uf.Peer 1002 requested 62.
+23:42:27.951113223 : uf.Peer 1004 requested 12.
+23:42:27.951177405 : sent piece 62 to 1002 
+23:42:27.951239467 : sent piece 12 to 1004 
+23:42:27.951267786 : uf.Peer 1003 requested 60.
+23:42:27.951371934 : sent piece 60 to 1003 
+23:42:27.951650660 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 62.
+23:42:27.951688940 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.951811130 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 12.
+23:42:27.951838608 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.951941495 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 60.
+23:42:27.951965275 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.952468088 : uf.Peer 1002 requested 31.
+23:42:27.952733834 : uf.Peer 1004 requested 21.
+23:42:27.952771441 : sent piece 31 to 1002 
+23:42:27.952816635 : uf.Peer 1003 requested 47.
+23:42:27.952988253 : sent piece 21 to 1004 
+23:42:27.953112885 : sent piece 47 to 1003 
+23:42:27.953844422 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 31.
+23:42:27.953865636 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.954015594 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 21.
+23:42:27.954049154 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.954062325 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 28.
+23:42:27.954087526 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.954508451 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 47.
+23:42:27.954531733 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.954740839 : uf.Peer 1002 requested 3.
+23:42:27.954960346 : sent piece 3 to 1002 
+23:42:27.955407329 : uf.Peer 1003 requested 30.
+23:42:27.955588630 : sent piece 30 to 1003 
+23:42:27.955992511 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 3.
+23:42:27.956013332 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.956034529 : uf.Peer 1004 requested 48.
+23:42:27.956158059 : sent piece 48 to 1004 
+23:42:27.956504400 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 30.
+23:42:27.956536072 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.956633330 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 53.
+23:42:27.956655626 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.956674933 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 48.
+23:42:27.956744538 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.957145807 : uf.Peer 1002 requested 1.
+23:42:27.960234879 : sent piece 1 to 1002 
+23:42:27.960372173 : uf.Peer 1003 requested 21.
+23:42:27.960461133 : sent piece 21 to 1003 
+23:42:27.960725121 : uf.Peer 1004 requested 17.
+23:42:27.960830693 : sent piece 17 to 1004 
+23:42:27.961049486 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 21.
+23:42:27.961074209 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.961291548 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 18.
+23:42:27.961306474 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.961400202 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 11.
+23:42:27.961420294 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.961502622 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 17.
+23:42:27.961521725 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.961585465 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 1.
+23:42:27.961602201 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.961841329 : uf.Peer 1003 requested 34.
+23:42:27.961962642 : sent piece 34 to 1003 
+23:42:27.961990161 : uf.Peer 1004 requested 38.
+23:42:27.962122688 : sent piece 38 to 1004 
+23:42:27.962609055 : uf.Peer 1002 requested 50.
+23:42:27.962697693 : sent piece 50 to 1002 
+23:42:27.962822648 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 34.
+23:42:27.962839613 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.963249642 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 50.
+23:42:27.963269452 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.963284963 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 38.
+23:42:27.963311248 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.963692874 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 20.
+23:42:27.963716497 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.963857715 : uf.Peer 1003 requested 20.
+23:42:27.963955858 : uf.Peer 1004 requested 53.
+23:42:27.963977315 : sent piece 20 to 1003 
+23:42:27.964063923 : sent piece 53 to 1004 
+23:42:27.964276636 : uf.Peer 1002 requested 19.
+23:42:27.964383542 : sent piece 19 to 1002 
+23:42:27.964417185 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 24.
+23:42:27.964440032 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.964866885 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 20.
+23:42:27.964888846 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.964955034 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 19.
+23:42:27.964979550 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.964995753 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 53.
+23:42:27.965014428 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.965766367 : uf.Peer 1004 requested 3.
+23:42:27.965830419 : sent piece 3 to 1004 
+23:42:27.965847259 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 4.
+23:42:27.965884744 : uf.Peer 1003 requested 54.
+23:42:27.965898432 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.965960560 : sent piece 54 to 1003 
+23:42:27.966138537 : uf.Peer 1002 requested 52.
+23:42:27.966226210 : sent piece 52 to 1002 
+23:42:27.966596402 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 3.
+23:42:27.966614548 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.966655140 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 54.
+23:42:27.966681911 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.967195905 : uf.Peer 1004 requested 33.
+23:42:27.967313535 : uf.Peer 1003 requested 62.
+23:42:27.967331260 : sent piece 33 to 1004 
+23:42:27.967425915 : sent piece 62 to 1003 
+23:42:27.967477354 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 51.
+23:42:27.967500544 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.967812709 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 33.
+23:42:27.967832724 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 62.
+23:42:27.967849376 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.967869666 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.968350075 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 52.
+23:42:27.968380550 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.968412919 : uf.Peer 1004 requested 60.
+23:42:27.968509691 : sent piece 60 to 1004 
+23:42:27.968670411 : uf.Peer 1003 requested 50.
+23:42:27.968773415 : sent piece 50 to 1003 
+23:42:27.968792926 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 60.
+23:42:27.968827990 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.969308946 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 63.
+23:42:27.969332201 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.969464337 : uf.Peer 1004 requested 58.
+23:42:27.969538876 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 0.
+23:42:27.969559352 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.969576048 : sent piece 58 to 1004 
+23:42:27.969602003 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 50.
+23:42:27.969631332 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.969781585 : uf.Peer 1002 requested 7.
+23:42:27.969889316 : sent piece 7 to 1002 
+23:42:27.970203073 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 58.
+23:42:27.970228296 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.970691761 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 7.
+23:42:27.970712082 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.971062513 : uf.Peer 1004 requested 4.
+23:42:27.971092798 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 66.
+23:42:27.971121280 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.971171580 : sent piece 4 to 1004 
+23:42:27.971284601 : uf.Peer 1002 requested 41.
+23:42:27.971389325 : sent piece 41 to 1002 
+23:42:27.971630084 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 4.
+23:42:27.971651265 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.971711336 : uf.Peer 1003 requested 58.
+23:42:27.971839179 : sent piece 58 to 1003 
+23:42:27.972374716 : uf.Peer 1004 requested 23.
+23:42:27.972391291 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 53.
+23:42:27.972422558 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.972456066 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 42.
+23:42:27.972502356 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.972523230 : sent piece 23 to 1004 
+23:42:27.972558771 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 58.
+23:42:27.972575986 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.972809488 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 41.
+23:42:27.972832355 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.972996077 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 23.
+23:42:27.973021614 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.973576958 : uf.Peer 1004 requested 35.
+23:42:27.973699710 : sent piece 35 to 1004 
+23:42:27.974162751 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 35.
+23:42:27.974183920 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.974216359 : uf.Peer 1002 requested 40.
+23:42:27.974287568 : uf.Peer 1003 requested 31.
+23:42:27.974325802 : sent piece 40 to 1002 
+23:42:27.974345637 : sent piece 31 to 1003 
+23:42:27.974381392 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 17.
+23:42:27.974458281 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.974584382 : uf.Peer 1004 requested 62.
+23:42:27.974703999 : sent piece 62 to 1004 
+23:42:27.974915983 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 40.
+23:42:27.984505648 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.984534339 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 62.
+23:42:27.984571599 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.984624288 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 31.
+23:42:27.984645874 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.984701529 : uf.Peer 1004 requested 40.
+23:42:27.984749123 : uf.Peer 1003 requested 66.
+23:42:27.984817004 : sent piece 66 to 1003 
+23:42:27.984833473 : sent piece 40 to 1004 
+23:42:27.984855233 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 2.
+23:42:27.985042084 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.985399109 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 40.
+23:42:27.985413103 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.985598053 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 66.
+23:42:27.985613132 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.985702868 : uf.Peer 1002 requested 47.
+23:42:27.985852291 : sent piece 47 to 1002 
+23:42:27.986046400 : uf.Peer 1003 requested 1.
+23:42:27.986140334 : sent piece 1 to 1003 
+23:42:27.986409771 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 47.
+23:42:27.986429178 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.986563322 : uf.Peer 1004 requested 27.
+23:42:27.986689938 : sent piece 27 to 1004 
+23:42:27.986971185 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 57.
+23:42:27.986993213 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.987070965 : uf.Peer 1002 requested 59.
+23:42:27.987167421 : sent piece 59 to 1002 
+23:42:27.987310982 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 27.
+23:42:27.987328271 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.987394550 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 1.
+23:42:27.987416422 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:27.987684524 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 59.
+23:42:27.987713696 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.988139023 : uf.Peer 1004 requested 19.
+23:42:27.988213729 : uf.Peer 1003 requested 8.
+23:42:27.988249851 : sent piece 19 to 1004 
+23:42:27.988309951 : sent piece 8 to 1003 
+23:42:27.988435450 : uf.Peer 1002 requested 56.
+23:42:27.988518628 : sent piece 56 to 1002 
+23:42:27.988988528 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 19.
+23:42:27.989013883 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.989105729 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 56.
+23:42:27.989122506 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.989756391 : uf.Peer 1002 requested 2.
+23:42:27.989860730 : sent piece 2 to 1002 
+23:42:27.989883503 : uf.Peer 1004 requested 32.
+23:42:27.990050926 : sent piece 32 to 1004 
+23:42:27.990503286 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 2.
+23:42:27.990522862 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.990531421 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 32.
+23:42:27.990546841 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.991145844 : uf.Peer 1004 requested 59.
+23:42:27.991321319 : sent piece 59 to 1004 
+23:42:27.992186043 : uf.Peer 1002 requested 21.
+23:42:27.992311620 : sent piece 21 to 1002 
+23:42:27.992383885 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 59.
+23:42:27.992428642 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.992864482 : uf.Peer 1004 requested 47.
+23:42:27.992939304 : sent piece 47 to 1004 
+23:42:27.992981429 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 21.
+23:42:27.993002807 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:27.993286200 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 47.
+23:42:27.993304415 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.993734586 : uf.Peer 1004 requested 18.
+23:42:27.993837067 : sent piece 18 to 1004 
+23:42:27.994196791 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 18.
+23:42:27.994209401 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.994916539 : uf.Peer 1004 requested 55.
+23:42:27.994995240 : sent piece 55 to 1004 
+23:42:27.995663755 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 55.
+23:42:27.995682575 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.996253718 : uf.Peer 1004 requested 66.
+23:42:27.996298846 : sent piece 66 to 1004 
+23:42:27.997498302 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 66.
+23:42:27.997516820 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.997944179 : uf.Peer 1004 requested 56.
+23:42:27.998019342 : sent piece 56 to 1004 
+23:42:27.998443097 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 56.
+23:42:27.998461305 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:27.998908799 : uf.Peer 1004 requested 31.
+23:42:27.998982023 : sent piece 31 to 1004 
+23:42:27.999469481 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 31.
+23:42:27.999484731 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.000028390 : uf.Peer 1004 requested 44.
+23:42:28.000093324 : sent piece 44 to 1004 
+23:42:28.000630205 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 44.
+23:42:28.000653162 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.001023875 : uf.Peer 1004 requested 64.
+23:42:28.001096839 : sent piece 64 to 1004 
+23:42:28.001487402 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 64.
+23:42:28.001503835 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.001873916 : uf.Peer 1004 requested 9.
+23:42:28.001942239 : sent piece 9 to 1004 
+23:42:28.002188330 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 9.
+23:42:28.002207503 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.002472742 : uf.Peer 1004 requested 34.
+23:42:28.002527287 : sent piece 34 to 1004 
+23:42:28.002784810 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 34.
+23:42:28.002801624 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.003062630 : uf.Peer 1004 requested 36.
+23:42:28.003121955 : sent piece 36 to 1004 
+23:42:28.003326301 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 36.
+23:42:28.003348637 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.003603778 : uf.Peer 1004 requested 52.
+23:42:28.003672881 : sent piece 52 to 1004 
+23:42:28.003893305 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 52.
+23:42:28.003911547 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.004240173 : uf.Peer 1004 requested 46.
+23:42:28.004300553 : sent piece 46 to 1004 
+23:42:28.004466666 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 35.
+23:42:28.004492688 : uf.Peer 1001 sent ‘not interested’ message to 1002.
+23:42:28.004690800 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 46.
+23:42:28.004719695 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.005123549 : uf.Peer 1004 requested 41.
+23:42:28.005181021 : sent piece 41 to 1004 
+23:42:28.005544144 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 41.
+23:42:28.005555998 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.005882492 : uf.Peer 1004 requested 11.
+23:42:28.005928049 : sent piece 11 to 1004 
+23:42:28.006238247 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 11.
+23:42:28.006253335 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.007578993 : uf.Peer 1004 requested 28.
+23:42:28.007647699 : sent piece 28 to 1004 
+23:42:28.008007749 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 28.
+23:42:28.008029470 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.008726955 : uf.Peer 1004 requested 65.
+23:42:28.008831849 : sent piece 65 to 1004 
+23:42:28.009249008 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 65.
+23:42:28.009268426 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.009838858 : uf.Peer 1004 requested 63.
+23:42:28.009914386 : sent piece 63 to 1004 
+23:42:28.010223487 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 63.
+23:42:28.010239565 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.010683676 : uf.Peer 1004 requested 14.
+23:42:28.010801127 : sent piece 14 to 1004 
+23:42:28.011056725 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 14.
+23:42:28.011074051 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.011513047 : uf.Peer 1004 requested 15.
+23:42:28.011630894 : sent piece 15 to 1004 
+23:42:28.011889272 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 15.
+23:42:28.011906154 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.012298751 : uf.Peer 1004 requested 49.
+23:42:28.012411180 : sent piece 49 to 1004 
+23:42:28.012664465 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 49.
+23:42:28.012684032 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.013077040 : uf.Peer 1004 requested 22.
+23:42:28.013176717 : sent piece 22 to 1004 
+23:42:28.013519384 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 22.
+23:42:28.013535432 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.014055228 : uf.Peer 1004 requested 37.
+23:42:28.014171475 : sent piece 37 to 1004 
+23:42:28.014538301 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 37.
+23:42:28.014556449 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.015186054 : uf.Peer 1004 requested 30.
+23:42:28.015336302 : sent piece 30 to 1004 
+23:42:28.015879128 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 30.
+23:42:28.015902725 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.016322876 : uf.Peer 1004 requested 61.
+23:42:28.016450659 : sent piece 61 to 1004 
+23:42:28.016767385 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 61.
+23:42:28.016789412 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.017069124 : uf.Peer 1004 requested 13.
+23:42:28.017165922 : sent piece 13 to 1004 
+23:42:28.017479483 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 13.
+23:42:28.017492206 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.017857587 : uf.Peer 1004 requested 29.
+23:42:28.017942432 : sent piece 29 to 1004 
+23:42:28.018171752 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 29.
+23:42:28.018189949 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.018437584 : uf.Peer 1004 requested 57.
+23:42:28.018537682 : sent piece 57 to 1004 
+23:42:28.018855608 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 57.
+23:42:28.018876857 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.019235401 : uf.Peer 1004 requested 51.
+23:42:28.019340884 : sent piece 51 to 1004 
+23:42:28.019578249 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 51.
+23:42:28.019592600 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.019837109 : uf.Peer 1004 requested 1.
+23:42:28.019923999 : sent piece 1 to 1004 
+23:42:28.020203512 : uf.Peer 1001 received the ‘have’ message from 1004 for the piece 1.
+23:42:28.020217266 : uf.Peer 1001 sent ‘not interested’ message to 1004.
+23:42:28.028824988 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 8.
+23:42:28.028846845 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.029092586 : uf.Peer 1003 requested 59.
+23:42:28.029194957 : sent piece 59 to 1003 
+23:42:28.029730937 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 32.
+23:42:28.029749911 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.029805333 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 59.
+23:42:28.029820769 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.030198874 : uf.Peer 1003 requested 27.
+23:42:28.030307097 : sent piece 27 to 1003 
+23:42:28.030831270 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 52.
+23:42:28.030848593 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.030905732 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 27.
+23:42:28.030924005 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.030982654 : uf.Peer 1003 requested 26.
+23:42:28.031072906 : sent piece 26 to 1003 
+23:42:28.031462282 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 26.
+23:42:28.031480079 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.031661478 : uf.Peer 1003 requested 42.
+23:42:28.031761133 : sent piece 42 to 1003 
+23:42:28.031972116 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 3.
+23:42:28.032024197 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.032075572 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 42.
+23:42:28.032091902 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.032288877 : uf.Peer 1003 requested 9.
+23:42:28.032408075 : sent piece 9 to 1003 
+23:42:28.033059762 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 9.
+23:42:28.033078717 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.033708739 : uf.Peer 1003 requested 40.
+23:42:28.033814200 : sent piece 40 to 1003 
+23:42:28.034265157 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 64.
+23:42:28.034279354 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.034324405 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 40.
+23:42:28.034339923 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:28.081082375 : uf.Peer 1001 received the ‘have’ message from 1003 for the piece 61.
+23:42:28.081097629 : uf.Peer 1001 sent ‘not interested’ message to 1003.
+23:42:32.820862045 : uf.Peer 1001 is choked by 1002.
+23:42:32.821255340 : uf.Peer 1001 is choked by 1005.
+23:42:32.849564110 : uf.Peer 1001 is choked by 1008.
+23:42:32.869296569 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 13.
+23:42:32.869313019 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.869384680 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 6.
+23:42:32.869396439 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.869454327 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 13.
+23:42:32.869466852 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.869795212 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 6.
+23:42:32.869808094 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.870092744 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 33.
+23:42:32.870099587 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.870637205 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 65.
+23:42:32.870648526 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.870944784 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 40.
+23:42:32.870950996 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.871157632 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 63.
+23:42:32.871182561 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.871379337 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 61.
+23:42:32.871388022 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.871731091 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 49.
+23:42:32.871740552 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.872707672 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 44.
+23:42:32.873082461 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.873093198 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 62.
+23:42:32.873104353 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.873139511 : uf.Peer 1001 is choked by 1007.
+23:42:32.873387713 : uf.Peer 1001 is choked by 1009.
+23:42:32.873598140 : uf.Peer 1001 is unchoked by 1006.
+23:42:32.874137470 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 34.
+23:42:32.874147023 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.877852610 : uf.Peer 1001 is choked by 1004.
+23:42:32.880461056 : uf.Peer 1001 is choked by 1003.
+23:42:32.891399199 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 44.
+23:42:32.891409003 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891458295 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 40.
+23:42:32.891468540 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891504233 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 61.
+23:42:32.891515410 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891545185 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 33.
+23:42:32.891555608 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891587067 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 60.
+23:42:32.891598023 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891628976 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 55.
+23:42:32.891637482 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891669996 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 22.
+23:42:32.891678847 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891716421 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 39.
+23:42:32.891724280 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891761719 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 5.
+23:42:32.891770729 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891812831 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 35.
+23:42:32.891822987 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891862220 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 62.
+23:42:32.891876404 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891914387 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 17.
+23:42:32.891927502 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.891968182 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 18.
+23:42:32.891981439 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.892027767 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 12.
+23:42:32.892040844 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.892093188 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 41.
+23:42:32.892102978 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.892153684 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 3.
+23:42:32.892165353 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.892211827 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 37.
+23:42:32.892221018 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.892263390 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 59.
+23:42:32.892272566 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.893186097 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 48.
+23:42:32.893215981 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.894870653 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 56.
+23:42:32.894887596 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.895056 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 39.
+23:42:32.895068163 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895123630 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 60.
+23:42:32.895133616 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895178207 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 12.
+23:42:32.895187555 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895229565 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 22.
+23:42:32.895239284 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895330730 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 59.
+23:42:32.895341602 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895386123 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 42.
+23:42:32.895395641 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895434323 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 66.
+23:42:32.895444271 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895479646 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 5.
+23:42:32.895488764 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895521240 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 17.
+23:42:32.895529723 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895562765 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 37.
+23:42:32.895571223 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895615075 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 23.
+23:42:32.895624053 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895659424 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 27.
+23:42:32.895668857 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895706752 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 62.
+23:42:32.895716040 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895770499 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 31.
+23:42:32.895779232 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895813863 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 48.
+23:42:32.895825163 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895858234 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 8.
+23:42:32.895869550 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895902172 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 41.
+23:42:32.895913963 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.895952912 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 15.
+23:42:32.895961557 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.896189755 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 61.
+23:42:32.896200315 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.896830935 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 38.
+23:42:32.896843916 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.897440968 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 41.
+23:42:32.897451470 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.897501 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 46.
+23:42:32.897511216 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.897804598 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 2.
+23:42:32.897816941 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.898430680 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 24.
+23:42:32.898443584 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.898853515 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 34.
+23:42:32.898866805 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.899100295 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 25.
+23:42:32.899110540 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.899422133 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 42.
+23:42:32.899431160 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.899998109 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 20.
+23:42:32.900007720 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.900910136 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 12.
+23:42:32.900924783 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.901298706 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 5.
+23:42:32.901315300 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.901864512 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 7.
+23:42:32.901873484 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.901926778 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 1.
+23:42:32.901935892 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.902563674 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 52.
+23:42:32.902574364 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.903471408 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 37.
+23:42:32.903481796 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.903501237 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 66.
+23:42:32.903508970 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.903714782 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 2.
+23:42:32.903725250 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.904071670 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 50.
+23:42:32.904081904 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.904190848 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 14.
+23:42:32.904201139 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.904281970 : uf.Peer 1001 sent unchoke to 1002.
+23:42:32.904313932 : uf.Peer 1001 sent unchoke to 1003.
+23:42:32.904345270 : uf.Peer 1001 sent unchoke to 1004.
+23:42:32.904365309 : uf.Peer 1001 sent choke to 1005.
+23:42:32.904390357 : uf.Peer 1001 sent choke to 1006.
+23:42:32.904424864 : uf.Peer 1001 sent choke to 1007.
+23:42:32.904432191 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 27.
+23:42:32.904442447 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.904451961 : uf.Peer 1001 sent choke to 1008.
+23:42:32.904479901 : uf.Peer 1001 sent choke to 1009.
+23:42:32.904711059 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 33.
+23:42:32.904726352 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.904796116 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 63.
+23:42:32.904810246 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.905041657 : uf.Peer 1001 has the optimistically unchoked neighbor 1007.
+23:42:32.905142868 : uf.Peer 1007 requested 43.
+23:42:32.905303506 : sent piece 43 to 1007 
+23:42:32.905530471 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 27.
+23:42:32.905543331 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.905770838 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 45.
+23:42:32.905781622 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.906178854 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 9.
+23:42:32.906194017 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.906450396 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 39.
+23:42:32.906465213 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.906511558 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 43.
+23:42:32.906523660 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.906575508 : uf.Peer 1007 requested 65.
+23:42:32.906692836 : sent piece 65 to 1007 
+23:42:32.906937961 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 47.
+23:42:32.906951943 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.907102771 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 60.
+23:42:32.907114774 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.907232930 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 65.
+23:42:32.907244773 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.907279877 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 54.
+23:42:32.907293900 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.907300611 : uf.Peer 1007 requested 34.
+23:42:32.907398401 : sent piece 34 to 1007 
+23:42:32.908097590 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 34.
+23:42:32.908108204 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.908114920 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 18.
+23:42:32.908124065 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.908171795 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 16.
+23:42:32.908181337 : uf.Peer 1007 requested 16.
+23:42:32.908194061 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.908287740 : sent piece 16 to 1007 
+23:42:32.908439980 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 52.
+23:42:32.908450740 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.908740184 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 16.
+23:42:32.908749583 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.908824898 : uf.Peer 1007 requested 64.
+23:42:32.908930127 : sent piece 64 to 1007 
+23:42:32.909081759 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 10.
+23:42:32.909090683 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.909620750 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 61.
+23:42:32.909630448 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.909720793 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 64.
+23:42:32.909730492 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.909782827 : uf.Peer 1007 requested 14.
+23:42:32.909874077 : sent piece 14 to 1007 
+23:42:32.910358504 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 55.
+23:42:32.910368260 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 14.
+23:42:32.910381633 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.910388787 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.910437736 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 33.
+23:42:32.910447837 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.910489964 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 65.
+23:42:32.910498540 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.910731440 : uf.Peer 1007 requested 20.
+23:42:32.910844593 : sent piece 20 to 1007 
+23:42:32.911275653 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 20.
+23:42:32.911287258 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.911346353 : uf.Peer 1007 requested 26.
+23:42:32.911459746 : sent piece 26 to 1007 
+23:42:32.911487604 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 66.
+23:42:32.911505240 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 57.
+23:42:32.911512776 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.911517747 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.911892940 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 26.
+23:42:32.911903637 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.912360175 : uf.Peer 1007 requested 32.
+23:42:32.912473941 : sent piece 32 to 1007 
+23:42:32.913062612 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 42.
+23:42:32.913076472 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.913101152 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 3.
+23:42:32.913115006 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.913242712 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 35.
+23:42:32.913255960 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.913599415 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 4.
+23:42:32.913614660 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 23.
+23:42:32.913627501 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.913633462 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.913942446 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 32.
+23:42:32.913950447 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.913997629 : uf.Peer 1007 requested 47.
+23:42:32.914088722 : sent piece 47 to 1007 
+23:42:32.914493223 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 64.
+23:42:32.914502427 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.915538548 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 10.
+23:42:32.915548741 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.915904013 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 47.
+23:42:32.915913566 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.915937063 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 30.
+23:42:32.915948933 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.916074046 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 44.
+23:42:32.916085330 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.916306701 : uf.Peer 1007 requested 56.
+23:42:32.916422325 : sent piece 56 to 1007 
+23:42:32.916648011 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 17.
+23:42:32.916657292 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.916708967 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 11.
+23:42:32.916717493 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.917936802 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 28.
+23:42:32.917948206 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.918161759 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 45.
+23:42:32.918179994 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.918583201 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 38.
+23:42:32.918592002 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.918651147 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 40.
+23:42:32.918663475 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.918715987 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 23.
+23:42:32.918747694 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.918910477 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 43.
+23:42:32.918924565 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.919080697 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 56.
+23:42:32.919092965 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.919550766 : uf.Peer 1007 requested 4.
+23:42:32.919645138 : sent piece 4 to 1007 
+23:42:32.919769949 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 15.
+23:42:32.919797823 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 47.
+23:42:32.919810228 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.919815930 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.920145691 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 32.
+23:42:32.920155627 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.920209788 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 59.
+23:42:32.920217652 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.920807218 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 8.
+23:42:32.920819385 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.921102075 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 30.
+23:42:32.921111212 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.921425099 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 4.
+23:42:32.921437206 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.921788737 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 10.
+23:42:32.921801080 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.921909773 : uf.Peer 1007 requested 51.
+23:42:32.921995840 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 60.
+23:42:32.922009009 : sent piece 51 to 1007 
+23:42:32.922016209 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.922712268 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 56.
+23:42:32.922723975 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.923095452 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 31.
+23:42:32.923107205 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.923137181 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 50.
+23:42:32.923149888 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.923312125 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 36.
+23:42:32.923322260 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.923570260 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 51.
+23:42:32.923579875 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.923876209 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 29.
+23:42:32.923885089 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.923913219 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 52.
+23:42:32.923940849 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.924071287 : uf.Peer 1007 requested 63.
+23:42:32.924171169 : sent piece 63 to 1007 
+23:42:32.924920917 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 21.
+23:42:32.924933893 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.925180986 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 19.
+23:42:32.925190092 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.925519248 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 63.
+23:42:32.925529003 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.925592964 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 15.
+23:42:32.925603694 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.925747594 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 29.
+23:42:32.925761198 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.925852924 : uf.Peer 1007 requested 28.
+23:42:32.925955930 : sent piece 28 to 1007 
+23:42:32.926428230 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 0.
+23:42:32.926442336 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.926655760 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 57.
+23:42:32.926665439 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.926765033 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 14.
+23:42:32.926774678 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.927412822 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 50.
+23:42:32.927421992 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.927443987 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 55.
+23:42:32.927456618 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.927745252 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 54.
+23:42:32.927770887 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.928036661 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 28.
+23:42:32.928049306 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.928887965 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 48.
+23:42:32.928898444 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.929244568 : uf.Peer 1007 requested 36.
+23:42:32.929355108 : sent piece 36 to 1007 
+23:42:32.930237787 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 8.
+23:42:32.930250598 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.930832101 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 25.
+23:42:32.930844900 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.931381607 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 3.
+23:42:32.931390349 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.931400248 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 35.
+23:42:32.931409897 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.931453855 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 30.
+23:42:32.931463209 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.931767758 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 36.
+23:42:32.931775717 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.932314433 : uf.Peer 1007 requested 29.
+23:42:32.932420151 : sent piece 29 to 1007 
+23:42:32.932900042 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 4.
+23:42:32.932911940 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.933259460 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 51.
+23:42:32.933271535 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 63.
+23:42:32.933281856 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.933287077 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.933594575 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 26.
+23:42:32.933607151 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.933704577 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 43.
+23:42:32.933716325 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.934265170 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 50.
+23:42:32.934274112 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.934966781 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 22.
+23:42:32.934982647 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.935267047 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 58.
+23:42:32.935279430 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.935461603 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 31.
+23:42:32.935469970 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.937401702 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 19.
+23:42:32.937419432 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.937999417 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 48.
+23:42:32.938015226 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.938206722 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 26.
+23:42:32.938218584 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.938266450 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 38.
+23:42:32.938278699 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.938822631 : uf.Peer 1001 received the ‘have’ message from 1005 for the piece 53.
+23:42:32.938836470 : uf.Peer 1001 sent ‘not interested’ message to 1005.
+23:42:32.939003406 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 18.
+23:42:32.939012720 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.939074954 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 16.
+23:42:32.939088191 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.939149934 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 7.
+23:42:32.939158474 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.940137590 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 29.
+23:42:32.940147559 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.940277527 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 39.
+23:42:32.940289159 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.940450532 : uf.Peer 1007 requested 24.
+23:42:32.940546415 : sent piece 24 to 1007 
+23:42:32.940699794 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 16.
+23:42:32.940719350 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.941073660 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 9.
+23:42:32.941082539 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.941518263 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 15.
+23:42:32.941536004 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.942823488 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 28.
+23:42:32.942831421 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.943025525 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 46.
+23:42:32.943032316 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.943647972 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 57.
+23:42:32.943657930 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.944036282 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 32.
+23:42:32.944045195 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.944682643 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 2.
+23:42:32.944693482 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.944967767 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 51.
+23:42:32.944976908 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.945667582 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 20.
+23:42:32.945678297 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.945896696 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 49.
+23:42:32.945907836 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.946305282 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 52.
+23:42:32.946315938 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.946727504 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 53.
+23:42:32.946755301 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.947641117 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 65.
+23:42:32.947649370 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.947798578 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 21.
+23:42:32.947806470 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.948090849 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 21.
+23:42:32.948109117 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.948382722 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 24.
+23:42:32.948392664 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.948599651 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 36.
+23:42:32.948607716 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.948823123 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 34.
+23:42:32.948833678 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.948929767 : uf.Peer 1007 requested 54.
+23:42:32.949020556 : sent piece 54 to 1007 
+23:42:32.949881051 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 58.
+23:42:32.949890479 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.950147882 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 54.
+23:42:32.950157488 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.950307735 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 14.
+23:42:32.950315819 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.950814128 : uf.Peer 1007 requested 25.
+23:42:32.950938269 : sent piece 25 to 1007 
+23:42:32.951186886 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 19.
+23:42:32.951197827 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.951393819 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 0.
+23:42:32.951404097 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.951613988 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 25.
+23:42:32.951625898 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.952098398 : uf.Peer 1007 requested 1.
+23:42:32.952185871 : sent piece 1 to 1007 
+23:42:32.952241899 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 32.
+23:42:32.952250303 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.952454987 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 11.
+23:42:32.952463820 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.952993665 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 7.
+23:42:32.953001284 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.953155622 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 1.
+23:42:32.953163782 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.953464718 : uf.Peer 1007 requested 45.
+23:42:32.953561721 : sent piece 45 to 1007 
+23:42:32.953741888 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 64.
+23:42:32.953754801 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.954339403 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 1.
+23:42:32.954351756 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.954645078 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 46.
+23:42:32.954659049 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.955173915 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 45.
+23:42:32.955186204 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.955810320 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 8.
+23:42:32.955818205 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.956017547 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 0.
+23:42:32.956028852 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.956467612 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 24.
+23:42:32.956476516 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.956852028 : uf.Peer 1007 requested 11.
+23:42:32.956951953 : sent piece 11 to 1007 
+23:42:32.957319573 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 53.
+23:42:32.957331355 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.957633910 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 11.
+23:42:32.957644660 : uf.Peer 1001 received the ‘have’ message from 1008 for the piece 58.
+23:42:32.957651345 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.957656472 : uf.Peer 1001 sent ‘not interested’ message to 1008.
+23:42:32.957952657 : uf.Peer 1007 requested 9.
+23:42:32.957998944 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 58.
+23:42:32.958016882 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:32.958045029 : sent piece 9 to 1007 
+23:42:32.958967590 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 49.
+23:42:32.958974612 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.959238053 : uf.Peer 1001 received the ‘have’ message from 1007 for the piece 9.
+23:42:32.959245132 : uf.Peer 1001 sent ‘not interested’ message to 1007.
+23:42:32.960190598 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 20.
+23:42:32.960201570 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.048854215 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 1.
+23:42:33.048869492 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.049451290 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 57.
+23:42:33.049467434 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.050066565 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 19.
+23:42:33.050074919 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.050970653 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 27.
+23:42:33.050977130 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.051510050 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 2.
+23:42:33.051517116 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.051974805 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 47.
+23:42:33.051980333 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.052408275 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 43.
+23:42:33.052414914 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.052858517 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 46.
+23:42:33.052868039 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.053288216 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 28.
+23:42:33.053295168 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.053755458 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 0.
+23:42:33.053764123 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.054189123 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 59.
+23:42:33.054193716 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.054573029 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 22.
+23:42:33.054578983 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.054973512 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 55.
+23:42:33.054979445 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.055380200 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 24.
+23:42:33.055386262 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.055858348 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 11.
+23:42:33.055863217 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.056243083 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 31.
+23:42:33.056247565 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.056707303 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 35.
+23:42:33.056711864 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.057288670 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 41.
+23:42:33.057294025 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.057841119 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 44.
+23:42:33.057851763 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.058290601 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 5.
+23:42:33.058302916 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.058693928 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 18.
+23:42:33.058704435 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.059153892 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 26.
+23:42:33.059160563 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.059679676 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 42.
+23:42:33.059684004 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.060174548 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 56.
+23:42:33.060178949 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.060668511 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 4.
+23:42:33.060672716 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.061176399 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 25.
+23:42:33.061180573 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.061727933 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 36.
+23:42:33.061735260 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.062347295 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 53.
+23:42:33.062358950 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.062891746 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 29.
+23:42:33.062902023 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.063416987 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 38.
+23:42:33.063423509 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.063942418 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 66.
+23:42:33.063949104 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.064611057 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 64.
+23:42:33.064618973 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.065147201 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 40.
+23:42:33.065156954 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.065696605 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 54.
+23:42:33.065706415 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.068560326 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 17.
+23:42:33.068574226 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.068627784 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 12.
+23:42:33.068639239 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.068677405 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 9.
+23:42:33.068687794 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.068755665 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 37.
+23:42:33.068780381 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.069596521 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 23.
+23:42:33.069605345 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.070376104 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 30.
+23:42:33.070385710 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.070923727 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 62.
+23:42:33.070931942 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.071512954 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 21.
+23:42:33.071521246 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.072109026 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 10.
+23:42:33.072121830 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.072701496 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 45.
+23:42:33.072716743 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.073383295 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 51.
+23:42:33.073394400 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.073979910 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 7.
+23:42:33.073988115 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.074434923 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 49.
+23:42:33.074442906 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.074968162 : uf.Peer 1001 received the ‘have’ message from 1009 for the piece 3.
+23:42:33.074977328 : uf.Peer 1001 sent ‘not interested’ message to 1009.
+23:42:33.075016677 : uf.Peer 1001 has downloaded the complete file from 1009
+23:42:33.821188960 : uf.Peer 1001 has downloaded the complete file from 1002
+23:42:33.873719650 : uf.Peer 1001 has downloaded the complete file from 1006
+23:42:33.877954869 : uf.Peer 1001 has downloaded the complete file from 1004
+23:42:33.880623961 : uf.Peer 1001 has downloaded the complete file from 1003
+23:42:33.938928260 : uf.Peer 1001 has downloaded the complete file from 1005
+23:42:33.957893494 : uf.Peer 1001 has downloaded the complete file from 1008
+23:42:33.959289513 : uf.Peer 1001 has downloaded the complete file from 1007

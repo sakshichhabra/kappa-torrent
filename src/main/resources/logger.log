@@ -1,0 +1,11 @@
+21:06:30.480726570 : uf.Peer 1001 makes a connection to uf.Peer 1001.
+21:06:30.491715341 : uf.Peer 1001 is connected from uf.Peer 1001.
+21:06:30.492040343 : uf.Peer 1001 has the preferred neighbors , 213, 434.
+21:06:30.493913484 : uf.Peer 1001 has the optimistically unchoked neighbor 6969.
+21:06:30.494255024 : uf.Peer 1001 is unchoked by 6969.
+21:06:30.494584735 : uf.Peer 1001 is choked by 6969.
+21:06:30.494924231 : uf.Peer 1001 received the ‘have’ message from 1002 for the piece 32323.
+21:06:30.495837138 : uf.Peer 1001 received the ‘interested’ message from 1001.
+21:06:30.496400348 : uf.Peer 1001 received the ‘not interested’ message from 1002.
+21:06:30.496839793 : uf.Peer 1001 has downloaded the piece 3 from 1001. Now the number of pieces it has is 210.
+21:06:30.497316244 : uf.Peer 1001 has downloaded the complete file.
